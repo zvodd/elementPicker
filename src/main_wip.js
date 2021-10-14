@@ -14,5 +14,9 @@
  * Generate XPATH / CSS Selector
  *  
  * 
- * HTML Clean, remove event handlers
+ * HTML Clean
+ *  - remove event handlers
+ *  - remove image on err
+ *  - add dataset attrute to store removed attrs json encoded
+ *  - base64 encode images?
  */
